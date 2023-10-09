@@ -11,8 +11,8 @@ To recreate the analysis download the following files from the link below and ru
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ### Relevent Datasets:
-202012-divvy-tripdata
-202112-divvy-tripdata
-202212-divvy-tripdata
-202302-divvy-tripdata
+202012-divvy-tripdata; 
+202112-divvy-tripdata; 
+202212-divvy-tripdata; 
+202302-divvy-tripdata; 
 
