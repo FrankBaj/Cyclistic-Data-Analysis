@@ -16,3 +16,5 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 202212-divvy-tripdata  
 202302-divvy-tripdata  
 
+## Tableau Workbook
+https://public.tableau.com/views/CyclisticDataVisualizations_16965350473920/CyclisticStatisticsbyDayandMembership?:language=en-US&:display_count=n&:origin=viz_share_link
