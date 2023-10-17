@@ -5,6 +5,7 @@ Data Analysis Capstone Project for Google Data Analytics Certificate
 This repository contains the R file and the SQL Queries used to perform 
 data analysis for Gooogle's Data Analytics Capstone Project. 
 To recreate the analysis download the following files from the link below and run the SQL or R program.
+It also contains the mock powerpoint presentation with analysis, conclusions, and recommendations.
 
 ## Dataset:
 ### Link: 
